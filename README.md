@@ -24,6 +24,6 @@
 - 9 out of 10 most profitable Japanese movies are Animation films, the most popular are Demon Slayer, Your Name and Pokemon, respectively.  
 - 5 out of 10 most popular Japanese movies are Animation films.  
 - One Piece Film Red is the most popular Japanese movie.  
-  *Animation films:*  
+#### __Animation films:__  
 - The "Golden Era" was from 2010 - 2019 with more than 100 movies produced yearly and constant positive profit.  
 - Toei Animation is the most popular Japanese animation movies producer, but the most profitable movies were those collaborated with multiple producers.  
