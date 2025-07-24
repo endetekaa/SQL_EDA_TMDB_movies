@@ -5,6 +5,10 @@
 - The TMDb (The Movie Database) is a comprehensive movie database that provides information about movies, including details like titles, ratings, release dates, revenue, genres, and much more.  
 - This dataset contains a collection of 1,000,000 movies from the TMDB database.
 - Link to dataset: https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies/data
+## Data Loading & Processing:
+- Dataset downloaded from website, cleaned using Excel functions.
+- Dataset bulk inserted from pre-created table in SQL.
+- During queries, some data manipulation techniques may be applied (convert string to date/time to extract year, merge null data into "Others" group, filter null data,...)
 ## Key findings from the data:  
 ### 1. Overview: number of movies and profitability:
 - From XVIII to XX centuries, the number of movies and profitability increased significantly.
